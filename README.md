@@ -1,2 +1,3 @@
 # CientServer_TripAdvisor
-Implementazione Client Server semplificata di un servizio ispirato a TripAdvisor, denominato HOTELIER.
+Implementazione semplificata di un servizio ispirato a TripAdvisor, denominato HOTELIER, focalizzato esclusivamente sulla gestione di hotel. Il progetto prevede funzionalità di registrazione e login degli utenti, ricerca e visualizzazione di hotel in città predefinite, inserimento di recensioni, calcolo e aggiornamento dei ranking locali degli hotel, attribuzione di distintivi agli utenti in base al numero di recensioni effettuate. Il sistema è costituito da un programma client con interfaccia a linea di comando e un programma server che gestisce le operazioni richieste dagli utenti.
+Il linguaggio di programmazione utilizzato è Java ed è stata usata la NIO.
